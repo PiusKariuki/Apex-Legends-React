@@ -1,0 +1,19 @@
+@media (max-width: 576px) {
+    Carousel.Caption{
+      top: 40%;
+    }
+    
+    Carousel.Caption h3{
+      font-size: 250%;
+    }
+    
+    Carousel.Captionp{
+      font-size: 110;
+    }
+  
+  
+      Carousel.Indicators{
+        display: none;
+      }
+
+  }

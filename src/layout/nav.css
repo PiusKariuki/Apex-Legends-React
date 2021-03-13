@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .navbar-nav{
+        clear: left;
+    }
+    }
+    .navbar-nav{
+        clear: left;
+    }
+    .item{
+        color: ivory;
+    }
